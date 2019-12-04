@@ -16,4 +16,11 @@
 <ContainObj>SBIP://METASERVER/patric/Git/ETL/KO/3.TRANSFORM/JOBS(Folder)</ContainObj>
 <ContainObj>SBIP://METASERVER/patric/Git/ETL/KO/3.TRANSFORM/JOBS/Roger_testar_git_plugin(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1575457731749" Description="" Name="Roger_testar_git_plugin" PackageName="Roger_testar_git_plugin.spk" UserID="sasdemo@SASBAP" Version="14df517">
+<ContainObj>SBIP://METASERVER/patric/Git/ETL(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/patric/Git/ETL/KO(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/patric/Git/ETL/KO/3.TRANSFORM(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/patric/Git/ETL/KO/3.TRANSFORM/JOBS(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/patric/Git/ETL/KO/3.TRANSFORM/JOBS/Roger_testar_git_plugin(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
