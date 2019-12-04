@@ -1,1 +1,5 @@
-<ROOT></ROOT>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1575455584359" Description="" Name="patric_test" PackageName="patric_test.spk" UserID="sasdemo@SASBAP" Version="71f68cc">
+<ContainObj>SBIP://METASERVER/patric/Git/job1(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
