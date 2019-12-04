@@ -36,4 +36,8 @@
 <ArchInfo Date="1575458178888" Description="" Name="Roger_testar_git_plugin" PackageName="Roger_testar_git_plugin.spk" UserID="sasutvbatch@FI" Version="1acb804">
 <ContainObj>SBIP://METASERVER/ETL/KO/3.TRANSFORM/JOBS/Roger_testar_git_plugin(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1575461998305" Description="" Name="Roger_testar" PackageName="Roger_testar.spk" UserID="sasutvbatch@FI" Version="6399d83">
+<ContainObj>SBIP://METASERVER/ETL/KO/3.TRANSFORM/JOBS/Roger_testar_git_plugin(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/ETL/KO/3.TRANSFORM/JOBS/Roger_testar_git_plugin.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
